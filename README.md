@@ -1,48 +1,34 @@
-Portfolio Website
+# 🚀 My Portfolio Website  
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and professional journey.
+🌐 **Live Demo:** https://singhabhinandan.netlify.app
 
-🌐 Live Demo
+## 📌 Features  
+- 🎨 **Responsive Design**  
+- 🚀 **Smooth Animations**  
+- 💼 **Showcasing My Projects**   
 
-Visit My Portfolio
+## 🛠 Tech Stack  
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-2962FF?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
 
-📌 Features
+ 
 
-Responsive Design - Works on all screen sizes
-
-Smooth Animations - Engaging user experience
-
-Projects Showcase - Displays my work and contributions
-
-Contact Form - Allows visitors to reach out to me
-
-🛠 Tech Stack
-
-HTML - Structure of the website
-
-CSS - Styling and responsiveness
-
-JavaScript - Interactivity and animations
-
-📸 Screenshots
-
-
-
-🚀 Getting Started
-
-Clone the Repository
-
+## 🚀 Getting Started  
+```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/portfolio.git
-
-Open in Browser
-
-Simply open index.html in your preferred browser.
-
-📬 Contact
+cd portfolio
+```
 
 
+## 🌍 Open in Browser
+- **Simply open index.html in your preferred browser.**
 
+## 📬 Contact
+📧 Email: webmaniadev@gmail.com
 
+## 📜 License
+- ❌ **This project is NOT open-source. Unauthorized usage, distribution, or modification is strictly prohibited.**
+- 📩 **If you wish to use or collaborate, kindly contact me before proceeding.**
 
-Give this repo a ⭐ if you liked it! 😊
-
+⭐ Give this repo a star if you liked it! 😊
